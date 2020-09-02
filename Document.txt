@@ -3,3 +3,7 @@ After my internship was over, I went on vacation to the Badlands with some of my
 There, while climbing a sheer face, I lost grip and smacked my face into the cliffside, resulting in a cut across the bottom of my chin. 
 For the rest of the summer, I went back to work for the local furniture store “A Furniture and Bedding Showcase” here in Muncie.
 
+Over the summer, I (William English) had an internship at Eli Lilly and Company. I worked with AWS and python to create a RESTful API service. 
+I tried to learn a lot using the resources they provided such as cloud services, R, node, and other languages. I parcipated in the intern hackahton
+they held and ended up winning best overall award. When I wasn't working I spent a lot of time baking, doing yoga, and cyclying. I also tried 
+making a few video games using Godot or Unity.
