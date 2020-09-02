@@ -3,3 +3,7 @@ After my internship was over, I went on vacation to the Badlands with some of my
 There, while climbing a sheer face, I lost grip and smacked my face into the cliffside, resulting in a cut across the bottom of my chin. 
 For the rest of the summer, I went back to work for the local furniture store “A Furniture and Bedding Showcase” here in Muncie.
 
+This summer, I (Daniel Spencer) took an online class called Mobile Development and also detailed some cars on the side to make some money. My friend and I
+started a small business washing and detailing cars last summer and have maintained it throughout the year as a small source of income. It's
+nice being able to work on your own schedule and with your own clients. The online class was also enjoyable and I learned a lot about programming
+using Android Studio. I made some small applications that would run on an Android phone like JSON parser and a Weather Alerts app.
