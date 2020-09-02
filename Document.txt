@@ -8,3 +8,11 @@ My two classes were Web Development and PE, and I was lucky enought to get on th
 I used my Ball State account to use LinkedIn Learning and study for the AWS Certified Cloud Practicioner Exam. 
 Sadly, LinkedIn Learning was not as reliable of a resource as I thought. 
 Planning on retaking the certification exam sometime this semester, if I have enough free time.
+
+Hunter Wallace
+This summer, I continued my internship with Ontario Systems and finally completed it at the beginning of August. Besides work, I began to garden more and grew a variety of peppers, my best batch being Ghost Peppers. I also got to visit Colorado for the first time and go camping which was a blast. I attempted to begin my own website making company too and am very hopeful to start reaching out to more local business.
+
+Over the summer, I (William English) had an internship at Eli Lilly and Company. I worked with AWS and python to create a RESTful API service. 
+I tried to learn a lot using the resources they provided such as cloud services, R, node, and other languages. I parcipated in the intern hackahton
+they held and ended up winning best overall award. When I wasn't working I spent a lot of time baking, doing yoga, and cyclying. I also tried 
+making a few video games using Godot or Unity.
