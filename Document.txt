@@ -3,7 +3,23 @@ After my internship was over, I went on vacation to the Badlands with some of my
 There, while climbing a sheer face, I lost grip and smacked my face into the cliffside, resulting in a cut across the bottom of my chin. 
 For the rest of the summer, I went back to work for the local furniture store “A Furniture and Bedding Showcase” here in Muncie.
 
+
 This summer, I (Daniel Spencer) took an online class called Mobile Development and also detailed some cars on the side to make some money. My friend and I
 started a small business washing and detailing cars last summer and have maintained it throughout the year as a small source of income. It's
 nice being able to work on your own schedule and with your own clients. The online class was also enjoyable and I learned a lot about programming
 using Android Studio. I made some small applications that would run on an Android phone like JSON parser and a Weather Alerts app.
+
+My name is Clay Reber, and I spent most of my summer working on my summer classes, and did my best to gain more experience with AWS.
+My two classes were Web Development and PE, and I was lucky enought to get on the Dean's list.
+I used my Ball State account to use LinkedIn Learning and study for the AWS Certified Cloud Practicioner Exam. 
+Sadly, LinkedIn Learning was not as reliable of a resource as I thought. 
+Planning on retaking the certification exam sometime this semester, if I have enough free time.
+
+Hunter Wallace
+This summer, I continued my internship with Ontario Systems and finally completed it at the beginning of August. Besides work, I began to garden more and grew a variety of peppers, my best batch being Ghost Peppers. I also got to visit Colorado for the first time and go camping which was a blast. I attempted to begin my own website making company too and am very hopeful to start reaching out to more local business.
+
+Over the summer, I (William English) had an internship at Eli Lilly and Company. I worked with AWS and python to create a RESTful API service. 
+I tried to learn a lot using the resources they provided such as cloud services, R, node, and other languages. I parcipated in the intern hackahton
+they held and ended up winning best overall award. When I wasn't working I spent a lot of time baking, doing yoga, and cyclying. I also tried 
+making a few video games using Godot or Unity.
+
