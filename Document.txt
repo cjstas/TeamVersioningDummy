@@ -3,6 +3,14 @@ After my internship was over, I went on vacation to the Badlands with some of my
 There, while climbing a sheer face, I lost grip and smacked my face into the cliffside, resulting in a cut across the bottom of my chin. 
 For the rest of the summer, I went back to work for the local furniture store “A Furniture and Bedding Showcase” here in Muncie.
 
+
+
+Over the long Summer, I (Evan Mitchell) worked a lot more than expected. I worked at a canoe rental five days a week and had a lot of fun with that. I was hoping to be working an internship however, the one I thought I would be doing got cancelled. It was unfortunate but I still was able to learn some new programming topics. One thing I really wanted to do was learn more about web development and the different frameworks associated with it so it was fun to learn about that and work through a few projects. I wish things could have gone differently but overall, it was a productive Summer given the circumstances.
+
+
+
+
+
 My name is Clay Reber, and I spent most of my summer working on my summer classes, and did my best to gain more experience with AWS.
 My two classes were Web Development and PE, and I was lucky enought to get on the Dean's list.
 I used my Ball State account to use LinkedIn Learning and study for the AWS Certified Cloud Practicioner Exam. 
@@ -16,3 +24,4 @@ Over the summer, I (William English) had an internship at Eli Lilly and Company.
 I tried to learn a lot using the resources they provided such as cloud services, R, node, and other languages. I parcipated in the intern hackahton
 they held and ended up winning best overall award. When I wasn't working I spent a lot of time baking, doing yoga, and cyclying. I also tried 
 making a few video games using Godot or Unity.
+
