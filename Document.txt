@@ -3,3 +3,9 @@ After my internship was over, I went on vacation to the Badlands with some of my
 There, while climbing a sheer face, I lost grip and smacked my face into the cliffside, resulting in a cut across the bottom of my chin. 
 For the rest of the summer, I went back to work for the local furniture store “A Furniture and Bedding Showcase” here in Muncie.
 
+
+Over the long Summer, I (Evan Mitchell) worked a lot more than expected. I worked at a canoe rental five days a week and had a lot of fun with that. I was hoping to be working an internship however, the one I thought I would be doing got cancelled. It was unfortunate but I still was able to learn some new programming topics. One thing I really wanted to do was learn more about web development and the different frameworks associated with it. I learned the basics of Node.js and express. Overall, it was a productive Summer given the circumstances.
+
+
+
+
